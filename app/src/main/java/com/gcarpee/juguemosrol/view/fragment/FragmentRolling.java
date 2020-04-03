@@ -168,5 +168,4 @@ public class FragmentRolling extends Fragment {
         textViewNumber.setText(newRoll.toString());
 
     }
-
 }
